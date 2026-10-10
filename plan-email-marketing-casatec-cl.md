@@ -242,6 +242,34 @@ como destino de tus campañas.
 
 ---
 
+---
+
+## 7. Actualización 2026-10-10 (recomendaciones de la IA de Omnisend aplicadas)
+
+Revisé tus capturas. Todo lo aplicado está **confirmado en vivo** (13 workflows,
+form en flyout, y ya hay señal de ingresos: *Checkout abandonado* con revenue
+atribuido). Apliqué yo las 2 sugerencias que mostraba Omnisend:
+
+- **Abandono de producto (2 correos):** añadí **condiciones de salida** —el flujo
+  ahora **sale** si la persona agrega al carrito, inicia checkout o compra—, para
+  que no siga mandando recordatorios de navegación cuando los flujos de carrito y
+  checkout ya la están contactando. *(Era la recomendación "Add an exit condition".)*
+- **Formulario de la Guía:** pasé los textos de **MAYÚSCULAS a sentence case**
+  ("¿Preparado para el calor de este verano?", "Sí, quiero la guía gratis",
+  "Guía gratis para el calor", "Quiero mi guía gratis", "¡Listo!") — la sugerencia
+  "+10% signups" — y **activé el teaser** (burbuja mínima "🎁 Guía gratis"), que
+  junto con el flyout lo hace aún menos intrusivo.
+
+**Lo único que te recomiendo hacer a ti:** abrir casatec.cl en el **celular** y
+mirar cómo se ve el flyout/teaser una vez (es lo que no puedo previsualizar yo).
+Si algo no te gusta, lo revierto en segundos.
+
+**Lo que queda para tu web/dev (requiere acceso al sitio, no a Omnisend):** opt-in
+de marketing en el checkout de WooCommerce, formulario embebido en footer y ficha
+de producto, y Meta Lead Ads como destino de campañas.
+
+---
+
 ## Anexo — IDs y enlaces (editor Omnisend)
 
 **Activos (9):**
