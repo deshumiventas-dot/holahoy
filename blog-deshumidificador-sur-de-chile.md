@@ -24,7 +24,7 @@ Las consecuencias de no controlarla son más severas acá: el **moho** aparece r
 
 ### Capacidad acorde al clima
 
-Apunta a un equipo que cubra bien los metros cuadrados de tu living o casa completa, no solo una pieza. Para espacios de hasta 40 m², un modelo como el **GTD-250 Plus WiFi** —con estanque de 3,5 L y control por app— es una excelente base para una casa en el sur.
+Apunta a un equipo que cubra bien los metros cuadrados de tu living o casa completa, no solo una pieza. Para espacios de hasta 40 m², un modelo como el **GTD-250 Plus WiFi** —con estanque de gran capacidad y control por app— es una excelente base para una casa en el sur.
 
 ### Drenaje continuo
 
@@ -64,9 +64,9 @@ En **Casatec** te ayudamos a armar la combinación ideal para tu casa en el sur,
 
 **Internal Links:**
 - "deshumidificadores" → `/product-category/productos-hogar/deshumidificadores-domesticos/`
-- "GTD-250 Plus WiFi" → `/product/<confirmar-slug-gtd-250>/`
-- "SmartDry Pro WiFi" → `/product/<confirmar-slug-smartdry-pro>/`
-- "Drybox" → `/product/<confirmar-slug-drybox>/`
+- "GTD-250 Plus WiFi" → `/product/deshumidificador-de-aire-gtd-250-plus-wifi-casatec-40m2-preventa/`
+- "SmartDry Pro WiFi" → `/product/deshumidificador-smartdry-pro-wifi-con-ionizador-de-aire-3-8-lts-preventa/`
+- "Drybox" → `/product/deshumidificador-drybox-sin-electricidad/`
 - "aire portátil ULTRADRY500 4 en 1" → `/product/aire-acondicionado-portatil-ultradry-500-4-en-1-casatec/`
 
 **Image Alt Text:**
@@ -85,7 +85,7 @@ En **Casatec** te ayudamos a armar la combinación ideal para tu casa en el sur,
 <p>Sin control, el <strong>moho</strong> aparece rápido en muros y clósets, la ropa toma olor y los problemas respiratorios se agudizan. Por eso, para el sur, prioriza <strong>capacidad de extracción</strong> y <strong>autonomía</strong> (estanque grande o drenaje continuo).</p>
 <h2>Qué buscar en un deshumidificador para el sur</h2>
 <h3>Capacidad acorde al clima</h3>
-<p>Apunta a un equipo que cubra tu living o casa completa. Para hasta 40 m², el <strong>GTD-250 Plus WiFi</strong> —estanque de 3,5 L y control por app— es una excelente base para una casa en el sur.</p>
+<p>Apunta a un equipo que cubra tu living o casa completa. Para hasta 40 m², el <strong>GTD-250 Plus WiFi</strong> —estanque de gran capacidad y control por app— es una excelente base para una casa en el sur.</p>
 <h3>Drenaje continuo</h3>
 <p>Como trabajará muchas horas, el drenaje continuo (una manguera para que el agua salga sola) te evita vaciar el estanque varias veces al día.</p>
 <h3>Control por WiFi</h3>

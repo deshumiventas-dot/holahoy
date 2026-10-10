@@ -29,7 +29,7 @@ title ≤ 60 caracteres, meta ≤ 160. No inventé precios ni specs: confirma ci
 
 ### GTD-250 Plus WiFi
 - **Title:** `Deshumidificador GTD-250 Plus WiFi (40 m²) | Casatec`
-- **Meta:** `Deshumidificador GTD-250 Plus WiFi: hasta 40 m², estanque 3,5 L y control por app. Ideal para living o casa completa. Garantía y despacho en Chile.`
+- **Meta:** `Deshumidificador GTD-250 Plus WiFi: hasta 40 m², gran capacidad y control por app. Ideal para living o casa completa. Garantía y despacho en Chile.`
 - **H1:** Deshumidificador GTD-250 Plus WiFi
 
 ### SmartDry Pro WiFi

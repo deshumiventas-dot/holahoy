@@ -75,7 +75,7 @@ Para una pieza o un **departamento** chico, un deshumidificador **SmartDry Pro W
 
 ### Living o casa completa hasta 40 m²
 
-Para espacios grandes o varias piezas, necesitas más capacidad de extracción: el **GTD-250 Plus WiFi** maneja hasta 40 m², tiene estanque de 3,5 L y lo controlas desde la app. Es el caballo de batalla para bajar la humedad de toda la casa.
+Para espacios grandes o varias piezas, necesitas más capacidad de extracción: el **GTD-250 Plus WiFi** maneja hasta 40 m², tiene estanque de gran capacidad y lo controlas desde la app. Es el caballo de batalla para bajar la humedad de toda la casa.
 
 ### ¿Y si además pasas calor en verano?
 
@@ -99,13 +99,13 @@ Eliminar la humedad de tu casa es cuestión de combinar buenos hábitos —venti
 
 **Internal Links:**
 - "deshumidificadores domésticos" → `/product-category/productos-hogar/deshumidificadores-domesticos/`
-- "GTD-250 Plus WiFi" → `/product/<confirmar-slug-gtd-250>/`
-- "SmartDry Pro WiFi" → `/product/<confirmar-slug-smartdry-pro>/`
-- "Drybox" → `/product/<confirmar-slug-drybox>/`
+- "GTD-250 Plus WiFi" → `/product/deshumidificador-de-aire-gtd-250-plus-wifi-casatec-40m2-preventa/`
+- "SmartDry Pro WiFi" → `/product/deshumidificador-smartdry-pro-wifi-con-ionizador-de-aire-3-8-lts-preventa/`
+- "Drybox" → `/product/deshumidificador-drybox-sin-electricidad/`
 - "aire acondicionado portátil ULTRADRY500 4 en 1" → `/product/aire-acondicionado-portatil-ultradry-500-4-en-1-casatec/`
 
-> ⚠️ Solo el enlace del ULTRADRY500 está confirmado (lo saqué de tu sitio). Reemplaza los
-> `<confirmar-slug-...>` por las URLs reales de esos 3 productos antes de publicar.
+> ✅ Enlaces verificados. Nota: GTD-250 y SmartDry Pro están en **preventa**; ajusta el texto
+> si prefieres aclararlo en el artículo.
 
 **Image Alt Text:**
 1. "Ventanas empañadas por condensación y humedad en una casa en Chile"
@@ -147,7 +147,7 @@ Eliminar la humedad de tu casa es cuestión de combinar buenos hábitos —venti
 <h3>Dormitorios y piezas hasta 30 m²</h3>
 <p>Para una pieza o un departamento chico, el <strong>SmartDry Pro WiFi</strong> es la opción equilibrada: silencioso para dormir, con ionizador y control desde el celular. Perfecto como <strong>deshumidificador para dormitorio</strong>.</p>
 <h3>Living o casa completa hasta 40 m²</h3>
-<p>Para espacios grandes, el <strong>GTD-250 Plus WiFi</strong> maneja hasta 40 m², tiene estanque de 3,5 L y lo controlas desde la app. El caballo de batalla para toda la casa.</p>
+<p>Para espacios grandes, el <strong>GTD-250 Plus WiFi</strong> maneja hasta 40 m², tiene estanque de gran capacidad y lo controlas desde la app. El caballo de batalla para toda la casa.</p>
 <h3>¿Y si además pasas calor en verano?</h3>
 <p>Un <strong>aire acondicionado portátil ULTRADRY500 4 en 1</strong> enfría y además deshumidifica, así cubres el año completo con un solo equipo.</p>
 <h2>¿Cuánto consume un deshumidificador en Chile?</h2>

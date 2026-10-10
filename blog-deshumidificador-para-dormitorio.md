@@ -67,10 +67,10 @@ Un **deshumidificador para dormitorio** silencioso, del tamaño correcto y con c
 
 **Internal Links:**
 - "deshumidificadores para el hogar" → `/product-category/productos-hogar/deshumidificadores-domesticos/`
-- "SmartDry Pro WiFi" → `/product/<confirmar-slug-smartdry-pro>/`
-- "GTD-250 Plus WiFi" → `/product/<confirmar-slug-gtd-250>/`
-- "Drybox" → `/product/<confirmar-slug-drybox>/`
-- "cómo eliminar la humedad de la casa" → `/<slug-del-articulo-pilar>/`
+- "SmartDry Pro WiFi" → `/product/deshumidificador-smartdry-pro-wifi-con-ionizador-de-aire-3-8-lts-preventa/`
+- "GTD-250 Plus WiFi" → `/product/deshumidificador-de-aire-gtd-250-plus-wifi-casatec-40m2-preventa/`
+- "Drybox" → `/product/deshumidificador-drybox-sin-electricidad/`
+- "cómo eliminar la humedad de la casa" → `/como-eliminar-la-humedad-de-la-casa/` *(ajusta al permalink real del artículo pilar)*
 
 **Image Alt Text:**
 1. "Deshumidificador SmartDry Pro WiFi en un dormitorio en Chile"
