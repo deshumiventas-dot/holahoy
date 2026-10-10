@@ -152,16 +152,87 @@ estacional (humedad en invierno / calor en verano), WooCommerce.
 
 ---
 
+---
+
+## 5 bis. Actualización 2026-10-10 (segunda tanda aplicada)
+
+Decisiones que aprobaste (2, 3, 4) — **hechas en vivo**:
+
+- **#2 Reactivación → Winback real (6 meses).** La "Customer Reactivation"
+  disparaba a **30 días** del pedido (demasiado pronto para un equipo durable, y
+  además el *Post-compra* ya cubre satisfacción/accesorios a +3d/+16d). La
+  **retimé a 180 días** y la renombré **"Winback / Reactivación (6 meses)"**. Su
+  copy ("no hemos sabido de ti…") ahora sí calza con el momento. *(No creé un 3.er
+  flujo de satisfacción para no pisar el Post-compra: cada flujo con un solo trabajo.)*
+- **#3 Preventa GTD-250 → ACTIVADA.**
+- **#4 Back in Stock → CREADO y ACTIVADO:** "Vuelve a estar disponible". Disparador
+  `product back in stock`, envío inmediato, sin supresión por solape (un aviso de
+  "volvió" no debe bloquearse), copy nuevo (*"¡Volvió! Lo que esperabas está
+  disponible otra vez"*) + bloque dinámico de producto + pie traducido al español.
+- **#5 Descuento:** se mantiene en **5%** (bienvenida, carro y checkout).
+
+**Estado final: 9 flujos ACTIVOS** → Bienvenida (4), Carro abandonado, Checkout
+abandonado, Abandono de producto (2), Winback (6 meses), Confirmación de compra,
+Post-compra, Preventa GTD-250, Back in Stock.
+
+---
+
+## 6. Captar correos SIN el popup que tapa la pantalla (tu pregunta)
+
+Problema: el popup a pantalla completa en móvil estorba mientras corres ads. No
+hay que apagar la captación: hay que **cambiar el formato**, no eliminarlo. Opciones
+(de más fácil a más estructural), todas compatibles con ads:
+
+1. **Teaser + disparador inteligente (mismo popup, sin tapar).** Omnisend permite
+   mostrar un **teaser** (una pestañita/burbuja en una esquina) en vez del popup a
+   pantalla completa. Configuración recomendada:
+   - **Móvil:** solo teaser ("🎁 Guía gratis"), se expande **solo al tocarlo**. Nunca tapa.
+   - **Escritorio:** *exit-intent* (cuando el cursor va a salir) o al **50% de scroll**.
+   - **Excluir** las landing de ads o mostrar recién al 2.º pageview / tras 15–20 s,
+     con tope 1 vez por visitante.
+   - Psicología: mere-exposure (presencia constante sin fricción) + loss aversion
+     (exit-intent capta al que se va) sin bloquear la entrada del anuncio.
+   - **Lo puedo dejar configurado yo** en tu form de la Guía si me dices "dale".
+
+2. **Formulario embebido (inline) — cero overlay.** Un bloque de suscripción fijo en:
+   - **Footer** del sitio (todas las páginas), **final de cada blog**, y
+   - **Ficha de producto**: *"Avísame cuando vuelva el stock / baje de precio"*
+     (además alimenta directo el Back in Stock y un futuro flujo de price-drop).
+   - Requiere pegar el snippet en el sitio WooCommerce (tu web/dev).
+
+3. **Landing page de captación (URL propia).** Un formulario tipo *landing page* con
+   la guía/descuento. Úsalo como **destino del anuncio** o en el *link in bio* de
+   Instagram/TikTok: el anuncio capta el mail, sin popup en el sitio.
+
+4. **Opt-in en el checkout de WooCommerce.** Un checkbox de consentimiento de
+   marketing en el checkout → los compradores entran a los flujos. Cero popup.
+   Psicología: default effect.
+
+5. **Meta Lead Ads (recomendado si ya inviertes en ads).** Formulario **nativo dentro
+   de Facebook/Instagram**: el usuario deja su correo sin salir del anuncio y sin
+   tocar tu web. Se sincroniza a Omnisend. Es la vía con menos fricción para tu caso.
+
+**Prioridad sugerida:** (1) teaser/exit-intent ya mismo + (4) opt-in en checkout →
+(2) embebido en footer y ficha → (5) Meta Lead Ads / (3) landing como destino de ads.
+
+> Nota: mientras no haya **ninguna** vía de captación activa, la Bienvenida (4
+> correos) no recibe entradas. El teaser (opción 1) es el arreglo más rápido y no
+> estorba a los ads.
+
+---
+
 ## Anexo — IDs y enlaces (editor Omnisend)
 
-**Activos:**
+**Activos (9):**
 - Bienvenida (4 correos): `6ac815c6866034cbe8b9d653` — https://app.omnisend.com/automation/edit/6ac815c6866034cbe8b9d653
 - Carro abandonado 🛒: `67e227d55484c48eb8cc7742` — https://app.omnisend.com/automation/edit/67e227d55484c48eb8cc7742
 - Checkout abandonado: `67df2ec5414d1dc8d28ea7ff` — https://app.omnisend.com/automation/edit/67df2ec5414d1dc8d28ea7ff
 - Abandono de producto (2 correos): `6ac8185a12da75235968e893` — https://app.omnisend.com/automation/edit/6ac8185a12da75235968e893
-- Customer Reactivation: `69642e0a324f040149189fed` — https://app.omnisend.com/automation/edit/69642e0a324f040149189fed
+- Winback / Reactivación (6 meses): `69642e0a324f040149189fed` — https://app.omnisend.com/automation/edit/69642e0a324f040149189fed
 - Confirmación de compra 💰: `67e1c28e3d78a08502c46b7d` — https://app.omnisend.com/automation/edit/67e1c28e3d78a08502c46b7d
 - Post-compra: `6abff4182c2ab323fbfa4b95` — https://app.omnisend.com/automation/edit/6abff4182c2ab323fbfa4b95
+- Preventa GTD-250: `6ac819fc12da75235968e8b0` — https://app.omnisend.com/automation/edit/6ac819fc12da75235968e8b0
+- Vuelve a estar disponible (Back in Stock): `6ac99e10653f43ddf35ce858` — https://app.omnisend.com/automation/edit/6ac99e10653f43ddf35ce858
 
 **Archivados/desactivados:**
 - `[OBSOLETO] Welcome No.2 (1 correo)`: `6ac5b57b866034cbe8b98586`
