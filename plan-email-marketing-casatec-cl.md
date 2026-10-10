@@ -216,8 +216,29 @@ hay que apagar la captación: hay que **cambiar el formato**, no eliminarlo. Opc
 (2) embebido en footer y ficha → (5) Meta Lead Ads / (3) landing como destino de ads.
 
 > Nota: mientras no haya **ninguna** vía de captación activa, la Bienvenida (4
-> correos) no recibe entradas. El teaser (opción 1) es el arreglo más rápido y no
-> estorba a los ads.
+> correos) no recibe entradas.
+
+### ✅ Hecho (2026-10-10): formulario de la Guía en modo no intrusivo, PUBLICADO
+
+Dejé **activo** el formulario de la Guía (`6a81dce3…`) así:
+- **Formato `flyout`** (tarjeta que entra por la esquina, **no tapa la pantalla**;
+  antes era popup central).
+- **Aparece solo tras interacción:** scroll 40% **o** 20 s en página **o**
+  exit-intent — **nunca al entrar** (no estorba el aterrizaje del anuncio).
+- **Frecuencia:** 1 vez al día por visitante. No se muestra a quien llega desde un
+  correo de Omnisend.
+- **Resultado:** la captación vuelve a funcionar y la **Bienvenida (4 correos)**
+  ya recibe entradas, sin bloquear tus ads.
+
+**Pendiente (manual, 1 clic en el editor):** el **teaser** (burbuja mínima tipo
+"🎁 Guía gratis") no es editable por API sin reenviar todo el diseño, así que lo
+dejé sin tocar. Si lo quieres, en el editor del form → pestaña **Teaser** →
+activarlo y cambiar el texto "GET 10% OFF" por "🎁 Guía gratis". Con flyout ya es
+no intrusivo; el teaser lo haría aún más sutil.
+
+**Siguientes pasos de captación recomendados** (tu web/dev): opt-in en el checkout
+de WooCommerce, formulario embebido en footer y ficha de producto, y Meta Lead Ads
+como destino de tus campañas.
 
 ---
 
